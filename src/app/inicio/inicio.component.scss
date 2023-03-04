@@ -1,0 +1,51 @@
+main {
+  min-height: 500px;
+}
+#section-banner {
+  min-height: 400px;
+}
+#section-banner img {
+  height: 500px;
+}
+
+.example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+  background-image: url("https://material.angular.io/assets/img/examples/shiba1.jpg");
+  background-size: auto;
+}
+
+.mat-grid-list img {
+  height: 300px;
+  width: 300px;
+  // border-radius: 20px;
+  border-radius: 8px;
+}
+.mat-grid-list button {
+  margin-left: 90px;
+}
+h2 {
+  font-size: 28px;
+  text-align: center;
+  padding: 20px;
+  font-weight: 800;
+}
+.value {
+  font-size: 22px;
+  color: #cf4242;
+}
+mat-card-actions button {
+  background-color: #313fbe;
+  font-weight: bold;
+}
+mat-card-actions button:hover {
+  background-color: #75a0fd;
+}
+.mat-grid-list {
+  background-color: #c4d7ff;
+}
+.game-informations {
+  background-color: #c4d7ff;
+}
